@@ -7,7 +7,14 @@ For this studies project we chose an dataset on [Kaggle](https://www.kaggle.com/
 - Luísa Balleroni Shimabucoro - 11832385
 - Wictor Dalbosco Silva - 11871027
 
+## Tools and languages used for this project
 
+<div style="display: flex">
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png"  height="35"  margin: 20px></a>
+&nbsp &nbsp &nbsp &nbsp  &nbsp 	
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" width=100></a>
+&nbsp &nbsp &nbsp &nbsp  &nbsp
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width=50 height="50" ></a>
 
 A [jupyter notebook](https://github.com/WictorDalbosco/Computer-Visualization/blob/main/computer_visualization.ipynb) can be found for faster visualization, or if you desire to run on a dashboard with streamlit, you can follow these steps:
 
