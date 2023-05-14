@@ -29,3 +29,7 @@ Then after all the installation is done, you can run with
 ```
 streamlit run trab2.py
 ```
+
+The streamlit version presents full interation with the user, and you can change values with sliders and such.
+
+A demonstration in portuguese can be found in this [link](https://youtu.be/hzybluWtt3s)
