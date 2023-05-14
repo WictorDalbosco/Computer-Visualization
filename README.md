@@ -16,6 +16,8 @@ For this studies project we chose an dataset on [Kaggle](https://www.kaggle.com/
 &nbsp &nbsp &nbsp &nbsp  &nbsp
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width=50 height="50" ></a>
 
+## Open or running the project
+  
 A [jupyter notebook](https://github.com/WictorDalbosco/Computer-Visualization/blob/main/computer_visualization.ipynb) can be found for faster visualization, or if you desire to run on a dashboard with streamlit, you can follow these steps:
 
 You will need the files in this repository and some libraries:
