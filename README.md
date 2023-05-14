@@ -9,7 +9,7 @@ For this studies project we chose an dataset on [Kaggle](https://www.kaggle.com/
 
 
 
-A [jupyter notebook](https://github.com/WictorDalbosco/Computer-Visualization/blob/main/computer_visualization.ipynb)can be found for faster visualization, or if you desire to run on a dashboard with streamlit, you can follow these steps:
+A [jupyter notebook](https://github.com/WictorDalbosco/Computer-Visualization/blob/main/computer_visualization.ipynb) can be found for faster visualization, or if you desire to run on a dashboard with streamlit, you can follow these steps:
 
 You will need the files in this repository and some libraries:
 
@@ -33,4 +33,7 @@ streamlit run trab2.py
 
 The streamlit version presents full interation with the user, and you can change values with sliders and such.
 
-A demonstration in portuguese can be found in this [link](https://youtu.be/hzybluWtt3s)
+A demonstration in portuguese can be found in this [link](https://youtu.be/hzybluWtt3s).
+
+
+
