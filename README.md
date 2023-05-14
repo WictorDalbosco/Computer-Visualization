@@ -1,12 +1,13 @@
-# Computer-Visualization
-Project developed for computer visualization studies.
+# Computer Visualization
+
+For this studies project we chose an dataset on [Kaggle](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows) that show us the top 1000 movies from all the time and we perfomed the data analysis and pre-processing, and a detailed, varied and relevant visualization for all the data, using histograms, heat maps, pair plots, bar plot, pie charts, box plot and wordclouds.  
 
 ## Team members
 
 - Luísa Balleroni Shimabucoro - 11832385
 - Wictor Dalbosco Silva - 11871027
 
-For this project we chose an dataset on [Kaggle](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows) that show us the top 1000 movies from all the time and we perfomed the data analysis and pre-processing, and a detailed, varied and relevant visualization for all the data, using histograms, heat maps, pair plots, bar plot, pie charts, box plot and wordclouds.  
+
 
 A [jupyter notebook](https://github.com/WictorDalbosco/Computer-Visualization/blob/main/computer_visualization.ipynb)can be found for faster visualization, or if you desire to run on a dashboard with streamlit, you can follow these steps:
 
